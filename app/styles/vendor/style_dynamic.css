@@ -1,0 +1,51 @@
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/assets/custom-styles/general-custom-styles.php aviana_mikado_h1_styles function */
+h1 { font-size: 70px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/assets/custom-styles/general-custom-styles.php aviana_mikado_h3_styles function */
+h3 { text-transform: none;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/assets/custom-styles/general-custom-styles.php aviana_mikado_h6_styles function */
+h6 { font-size: 19px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/contactform7/custom-styles/contact-form.php aviana_mikado_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { color: #909090;font-weight: 400;letter-spacing: 0px;background-color: rgba(248, 249, 246, 1);border-radius: 0px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/contactform7/custom-styles/contact-form.php aviana_mikado_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { border-radius: 0px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/contactform7/custom-styles/contact-form.php aviana_mikado_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea { height: 155px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/contactform7/custom-styles/contact-form.php aviana_mikado_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { background-color: rgba(255, 255, 255, 1);border-radius: 0px;padding-left: 20px;margin-bottom: 10px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/contactform7/custom-styles/contact-form.php aviana_mikado_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { border-radius: 0px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/contactform7/custom-styles/contact-form.php aviana_mikado_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea { height: 70px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/contactform7/custom-styles/contact-form.php aviana_mikado_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { background-color: rgba(255, 255, 255, 1);border-radius: 0px;padding-left: 16px;margin-bottom: 10px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/contactform7/custom-styles/contact-form.php aviana_mikado_contact_form7_button_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit { padding-top: 0;padding-bottom: 0;height: 45px;line-height: 45px;border-radius: 0px;padding-left: 32px;padding-right: 32px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/error404/custom-styles/custom-styles.php aviana_mikado_404_header_general_styles function */
+.mkdf-404-page .mkdf-page-header .mkdf-menu-area { background-color: rgba(255, 255, 255, 0) !important;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/error404/custom-styles/custom-styles.php aviana_mikado_404_footer_top_general_styles function */
+.mkdf-404-page .mkdf-content { background-image: url(http://aviana.mikado-themes.com/wp-content/uploads/2017/09/about-me-background-img.jpg);background-position: center 0;background-size: cover;background-repeat: no-repeat;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php aviana_mikado_header_top_bar_styles function */
+.mkdf-top-bar-background { height: 91px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/header/admin/custom-styles/header-custom-styles.php aviana_mikado_header_logo_area_styles function */
+.mkdf-page-header .mkdf-logo-area { height: 180px !important;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/header/admin/custom-styles/header-custom-styles.php aviana_mikado_header_logo_area_styles function */
+.mkdf-header-centered .mkdf-logo-area .mkdf-logo-wrapper { padding: 18px 0px 0px 0px;}
+
+/* generated in /www/sites/aviana.mikado-themes.com/files/html/wp-content/themes/aviana/framework/modules/sidearea/admin/custom-styles/sidearea-custom-styles.php aviana_mikado_side_area_slide_from_right_type_style function */
+.mkdf-side-menu-slide-from-right .mkdf-side-menu { right: -400px;width: 400px;}
+
