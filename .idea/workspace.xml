@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="919d6db9-7d50-44c0-b207-fece7c7704c7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/images/juliaPhotos/37366373_2094570387280068_684510966850781184_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/foods/PremiumImage.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/hamburger.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/touch/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/touch/chrome-touch-icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/touch/icon-128x128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/touch/ms-touch-icon-144x144-precomposed.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../juliaWbsite/.tmp/" />
@@ -28,11 +22,12 @@
     <session id="-280944659">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.167" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -60,7 +55,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="38" />
-          <entry key="html" value="175" />
+          <entry key="html" value="366" />
           <entry key="md" value="19" />
           <entry key="txt" value="39" />
         </counts>
@@ -68,7 +63,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="38" />
-          <entry key="HTML" value="175" />
+          <entry key="HTML" value="366" />
           <entry key="Markdown" value="19" />
           <entry key="PLAIN_TEXT" value="39" />
         </counts>
@@ -80,10 +75,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="316" column="137" selection-start-line="316" selection-start-column="130" selection-end-line="316" selection-end-column="137" />
+            <state relative-caret-position="1926">
+              <caret line="665" column="10" selection-start-line="665" selection-start-column="10" selection-end-line="665" selection-end-column="10" />
               <folding>
-                <element signature="e#24537#24558#0" expanded="true" />
+                <element signature="e#84340#94144#0" />
+                <element signature="e#86695#86753#0" expanded="true" />
+                <element signature="e#89959#90093#0" expanded="true" />
+                <element signature="e#93242#93465#0" expanded="true" />
+                <element signature="e#94209#103831#0" />
+                <element signature="e#96432#96490#0" expanded="true" />
+                <element signature="e#98009#98219#0" expanded="true" />
+                <element signature="e#99597#99746#0" expanded="true" />
+                <element signature="e#101273#101541#0" expanded="true" />
+                <element signature="e#102929#103152#0" expanded="true" />
+                <element signature="e#31#37#0" expanded="true" />
+                <element signature="e#37#43#0" expanded="true" />
+                <element signature="e#43#49#0" expanded="true" />
+                <element signature="e#4#10#0" expanded="true" />
+                <element signature="e#10#16#0" expanded="true" />
+                <element signature="e#16#22#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,6 +138,7 @@
       <find>PAGES</find>
       <find>item_text</find>
       <find>&lt;span class=&quot;item_text&quot;&gt;Pages&lt;/span&gt;</find>
+      <find>/image</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -244,6 +256,24 @@
               <item name="juliaWebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="juliaWebsite" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="juliaWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juliaWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juliaWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juliaWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juliaWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juliaWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="juliaPhotos" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -263,14 +293,15 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/images/juliaPhotos" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/images/foods" />
       <recent name="$PROJECT_DIR$/app/images" />
       <recent name="$PROJECT_DIR$/app/styles/fonts" />
       <recent name="$PROJECT_DIR$/app/images/logo" />
       <recent name="$PROJECT_DIR$/app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/images/juliaPhotos" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,20 +377,21 @@
       <workItem from="1533258419102" duration="342000" />
       <workItem from="1533304921707" duration="5045000" />
       <workItem from="1534108119099" duration="4943000" />
+      <workItem from="1535309708023" duration="2154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11788000" />
+    <option name="totallyTimeSpent" value="13942000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49632892" visible="true" weight="0.13231418" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4948605" visible="true" weight="0.13178703" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Gulp" order="3" sideWeight="0.50367105" side_tool="true" visible="true" weight="0.13231418" />
+      <window_info id="Gulp" order="3" sideWeight="0.5051395" side_tool="true" visible="true" weight="0.13178703" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.35346755" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49973643" weight="0.3294979" />
@@ -478,28 +510,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/hamburger.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/touch/apple-touch-icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/touch/icon-128x128.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/touch/chrome-touch-icon-192x192.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/images/touch/ms-touch-icon-144x144-precomposed.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="13" selection-start-column="13" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/app/images/hamburger.svg" />
+    <entry file="file://$PROJECT_DIR$/app/images/touch/apple-touch-icon.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/touch/icon-128x128.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/touch/chrome-touch-icon-192x192.png" />
+    <entry file="file://$PROJECT_DIR$/app/images/touch/ms-touch-icon-144x144-precomposed.png" />
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1926">
+          <caret line="665" column="10" selection-start-line="665" selection-start-column="10" selection-end-line="665" selection-end-column="10" />
+          <folding>
+            <element signature="e#84340#94144#0" />
+            <element signature="e#86695#86753#0" expanded="true" />
+            <element signature="e#89959#90093#0" expanded="true" />
+            <element signature="e#93242#93465#0" expanded="true" />
+            <element signature="e#94209#103831#0" />
+            <element signature="e#96432#96490#0" expanded="true" />
+            <element signature="e#98009#98219#0" expanded="true" />
+            <element signature="e#99597#99746#0" expanded="true" />
+            <element signature="e#101273#101541#0" expanded="true" />
+            <element signature="e#102929#103152#0" expanded="true" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#37#43#0" expanded="true" />
+            <element signature="e#43#49#0" expanded="true" />
+            <element signature="e#4#10#0" expanded="true" />
+            <element signature="e#10#16#0" expanded="true" />
+            <element signature="e#16#22#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -510,13 +548,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="316" column="137" selection-start-line="316" selection-start-column="130" selection-end-line="316" selection-end-column="137" />
-          <folding>
-            <element signature="e#24537#24558#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="13" selection-start-column="13" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
