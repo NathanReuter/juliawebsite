@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="919d6db9-7d50-44c0-b207-fece7c7704c7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/scripts/sw/vendor/googleAnaliticsInit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/cache.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/cache.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scripts/sw/instafeed.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/scripts/sw/vendor/instafeed.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/scripts/sw/instafeed.mim.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/scripts/sw/vendor/instafeed.mim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scripts/sw/vendor/instafeed.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/scripts/sw/vendor/instafeed.conf.js" afterDir="false" />
     </list>
     <ignored path="$USER_HOME$/juliaWbsite/.tmp/" />
     <ignored path="$USER_HOME$/juliaWbsite/temp/" />
@@ -64,7 +59,7 @@
         <counts>
           <entry key="css" value="76" />
           <entry key="html" value="711" />
-          <entry key="js" value="54" />
+          <entry key="js" value="109" />
           <entry key="md" value="19" />
           <entry key="txt" value="39" />
         </counts>
@@ -73,7 +68,7 @@
         <counts>
           <entry key="CSS" value="76" />
           <entry key="HTML" value="711" />
-          <entry key="JavaScript" value="54" />
+          <entry key="JavaScript" value="109" />
           <entry key="Markdown" value="19" />
           <entry key="PLAIN_TEXT" value="39" />
         </counts>
@@ -85,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="727">
-              <caret line="1247" column="90" selection-start-line="1247" selection-start-column="71" selection-end-line="1247" selection-end-column="90" />
+            <state relative-caret-position="552">
+              <caret line="1404" column="48" selection-start-line="1404" selection-start-column="48" selection-end-line="1404" selection-end-column="48" />
               <folding>
                 <element signature="e#12235#17389#0" />
                 <element signature="e#17482#18482#0" />
@@ -110,19 +105,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/styles/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/sw/vendor/instafeed.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="189">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -239,8 +225,9 @@
         <option value="$PROJECT_DIR$/app/scripts/sw/instafeed.conf.js" />
         <option value="$PROJECT_DIR$/app/scripts/sw/templateInitFunctions.js" />
         <option value="$PROJECT_DIR$/app/cache.html" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/styles/main.css" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/sw/vendor/instafeed.conf.js" />
       </list>
     </option>
   </component>
@@ -477,18 +464,18 @@
       <workItem from="1536930348686" duration="4905000" />
       <workItem from="1537404332860" duration="1460000" />
       <workItem from="1537406098774" duration="1004000" />
-      <workItem from="1537562379030" duration="1886000" />
+      <workItem from="1537562379030" duration="2868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30644000" />
+    <option name="totallyTimeSpent" value="31626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-28" width="1920" height="1108" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14034152" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14034152" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -505,7 +492,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Terminal" order="3" visible="true" weight="0.17289221" />
+      <window_info active="true" anchor="right" id="Terminal" order="3" visible="true" weight="0.17289221" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,38 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="1247" column="90" selection-start-line="1247" selection-start-column="71" selection-end-line="1247" selection-end-column="90" />
-          <folding>
-            <element signature="e#12235#17389#0" />
-            <element signature="e#17482#18482#0" />
-            <element signature="e#95429#100958#0" />
-            <element signature="e#101351#101418#0" expanded="true" />
-            <element signature="e#107510#107542#0" expanded="true" />
-            <element signature="e#107843#107862#0" expanded="true" />
-            <element signature="e#108523#108543#0" expanded="true" />
-            <element signature="e#109723#109747#0" expanded="true" />
-            <element signature="e#106811#110227#0" />
-            <element signature="e#31#37#0" expanded="true" />
-            <element signature="e#37#43#0" expanded="true" />
-            <element signature="e#43#49#0" expanded="true" />
-            <element signature="e#4#10#0" expanded="true" />
-            <element signature="e#10#16#0" expanded="true" />
-            <element signature="e#16#22#0" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/sw/vendor/instafeed.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/cache.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
@@ -681,8 +636,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="1404" column="48" selection-start-line="1404" selection-start-column="48" selection-end-line="1404" selection-end-column="48" />
+          <folding>
+            <element signature="e#12235#17389#0" />
+            <element signature="e#17482#18482#0" />
+            <element signature="e#95429#100958#0" />
+            <element signature="e#101351#101418#0" expanded="true" />
+            <element signature="e#107510#107542#0" expanded="true" />
+            <element signature="e#107843#107862#0" expanded="true" />
+            <element signature="e#108523#108543#0" expanded="true" />
+            <element signature="e#109723#109747#0" expanded="true" />
+            <element signature="e#106811#110227#0" />
+            <element signature="e#31#37#0" expanded="true" />
+            <element signature="e#37#43#0" expanded="true" />
+            <element signature="e#43#49#0" expanded="true" />
+            <element signature="e#4#10#0" expanded="true" />
+            <element signature="e#10#16#0" expanded="true" />
+            <element signature="e#16#22#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/sw/vendor/instafeed.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
