@@ -3,7 +3,7 @@
   var feed = new Instafeed({
     get: 'user',
     userId: '425048461',
-    clientId: '2f19beb208d447b6a1d2f0c4ca151489',
+    accessToken: '425048461.1677ed0.5b8de143f14a41f4ac30c1b49270919b',
     success: function (suc) {
       console.log('suc', suc);
     },
